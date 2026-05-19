@@ -1,0 +1,17 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+pydantic==2.10.4
+motor==3.6.1
+pymongo==4.9.2
+python-dotenv==1.0.1
+
+# Model pipeline dependencies
+torch
+transformers>=4.45.0
+accelerate
+Pillow
+PyMuPDF
+qwen-vl-utils
+peft
+bitsandbytes; platform_system != "Windows"

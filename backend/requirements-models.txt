@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+pillow==11.3.0
+torch
+transformers>=4.49.0
+accelerate
+qwen-vl-utils
+peft
+bitsandbytes
