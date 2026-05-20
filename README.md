@@ -162,7 +162,7 @@ GRADING_MAX_TOKENS=650
 UNLOAD_OCR_BEFORE_GRADING=true
 ```
 
-Do not commit the real `.env` file to GitHub.
+
 
 Run the backend:
 
